@@ -1,6 +1,6 @@
 Mario Invaders
 
-Team: Hongzhi Zhao, Sihan Wu
+Team:Sihan WU, 9998499931 and Zhoufeng Zheng, 998590564
 
 1.The whole game is based on a canvas, we use its size to decide the position and movement of player and enemies.
 
